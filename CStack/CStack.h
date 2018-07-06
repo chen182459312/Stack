@@ -71,5 +71,5 @@ void CStack<T, MAX_SIZE>::Clear() {
     m_size = 0;
     m_buffer[MAX_SIZE] = {0};
 }
-
+//hi
 #endif /* CStack_h */
